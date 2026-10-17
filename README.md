@@ -1,6 +1,6 @@
 # HopeaGold Jalometallien seuranta (Excel)
 
-*English version: [Precious Metals Tracker (English repo)](https://github.com/YOUR-GITHUB-USERNAME/precious-metals-tracker-excel)*
+*English version: [Precious Metals Tracker (English repo)](https://github.com/ammar93b/precious-metals-tracker-excel)*
 
 **Seuraa jokaista kulta-, hopea- ja platinakolikkoa ja -harkkoa Excelissä.** Yksi lomake, yksi painike: näet puhtaan metallisi, sijoitetut eurot, arvon tänään ja voiton kaavioineen. Ei sovellusta eikä tilausta, tietosi pysyvät omassa tiedostossasi.
 
