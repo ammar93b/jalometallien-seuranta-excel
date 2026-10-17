@@ -4,7 +4,7 @@
 
 **Seuraa jokaista kulta-, hopea- ja platinakolikkoa ja -harkkoa Excelissä.** Yksi lomake, yksi painike: näet puhtaan metallisi, sijoitetut eurot, arvon tänään ja voiton kaavioineen. Ei sovellusta eikä tilausta, tietosi pysyvät omassa tiedostossasi.
 
-### [Hanki täysi seuranta Gumroadista](https://hopeagold.gumroad.com/)
+### [Hanki täysi seuranta Gumroadista](https://hopeagold.gumroad.com/l/Jalometallien-seuranta-excelissa)
 
 > Tässä repossa on **vain katseltava esimerkki**: pelkät arvot, ei makroja, lukitut välilehdet. Täysi seuranta (TALLENNA-painike, kaikki kaavat, muokattavat pudotusvalikot ja esimerkkitiedosto) on myynnissä Gumroadissa.
 
